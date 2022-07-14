@@ -1,4 +1,4 @@
-### Olá, me chamo Wendel!
+### Olá, eu sou Wendel Leão!
 
 <div align="center">
   <a href="https://github.com/WendelLR99">
@@ -8,12 +8,15 @@
   
 ##
   
-<div style="display:inline_block"><br>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="height:90px; width:90px;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:90px; width:90px;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:90px; width:90px;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="height:90px; width:90px;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:90px; width:90px;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:90px; width:90px;"/>          
-<img align="right" src="https://cdn.discordapp.com/attachments/826504567667032114/997207439139151872/perfil-git.gif">
-  </div>
+<div align="center"><br>
+  <img align="center" alt="Wendel-VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="height:90px; width:90px;"/>
+  <img align="center" alt="Wendel-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:90px; width:90px;"/>
+  <img align="center" alt="Wendel-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:90px; width:90px;"/>
+  <img align="center" alt="Wendel-Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="height:90px; width:90px;"/>
+  <img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:90px; width:90px;"/>
+  <img align="center" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:90px; width:90px;"/>
+</div>
+  
+ ##
+
+![Snake animation](https://github.com/WendelLR99/WendelLR99/blob/output/github-contribution-grid-snake.svg)
