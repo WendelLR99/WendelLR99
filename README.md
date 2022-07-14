@@ -19,4 +19,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:80px; width:80px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:80px; width:80px;"/>
           
-<img align="right" src="https://cdn.discordapp.com/attachments/826504567667032114/997207439139151872/perfil-git.gif">
+<img align="right" src="https://discord.com/channels/526104986455769138/826504567667032114/997207439847981136">
