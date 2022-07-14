@@ -1,4 +1,13 @@
-### Olá, eu sou Wendel Leão!
+# Olá, eu sou Wendel Leão!
+*Sou autodidata, tenho 19 anos e estou estudando programação Full-Stack, gosto de tecnologia e de aprender*
+
+*Amo café*
+
+*Assisto um pouco de animes*
+
+*"Vivendo e aprendendo"*
+
+##
 
 <div align="center">
   <a href="https://github.com/WendelLR99">
