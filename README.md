@@ -1,9 +1,5 @@
 ### Olá, me chamo Wendel!
 
-
-
-
-
 <div align="center">
   <a href="https://github.com/WendelLR99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelLR99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,10 +10,10 @@
   
 <div style="display:inline_block"><br>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="height:30; width:40;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30; width:40;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:30; width:40;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="height:30; width:40;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30; width:40;"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:30; width:40;"/>          
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:90; width:90;"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:90px; width:90px;"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="height:90px; width:90px;"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:90px; width:90px;"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:90px; width:90px;"/>          
 <img align="right" src="https://cdn.discordapp.com/attachments/826504567667032114/997207439139151872/perfil-git.gif">
   </div>
