@@ -1,5 +1,5 @@
 # Olá, eu sou Wendel Leão!
-*Sou autodidata, tenho 19 anos e estou estudando programação Front-end, gosto de tecnologia e de aprender*
+*Sou autodidata, tenho 19 anos e estou estudando Front-end, gosto de tecnologia e de aprender*
 
 *Gosto de ☕*
 
