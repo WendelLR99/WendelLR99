@@ -3,8 +3,6 @@
 
 *Gosto de ☕*
 
-*Assisto um pouco de animes*
-
 *"Vivendo e aprendendo"*
 
 ##
