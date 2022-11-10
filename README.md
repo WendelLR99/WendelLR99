@@ -1,7 +1,7 @@
 # Olá, eu sou Wendel Leão!
 *Sou autodidata, tenho 19 anos e estou estudando Front-end, me interesso por tecnologia e de aprendizagem*
 
-*Atualmente estudando JavaScript, Typescript, Angular e Ux Design*
+*Atualmente estudando JavaScript, Typescript e Angular*
 
 *Gosto de ☕*
 
