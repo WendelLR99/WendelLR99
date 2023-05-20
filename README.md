@@ -24,7 +24,3 @@
   <img  alt="Angular" style="height:90px; width:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img alt="TypeScript" style="height:90px; width:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
 </div>
-  
- ##
-
-![Snake animation](https://github.com/WendelLR99/WendelLR99/blob/output/github-contribution-grid-snake.svg)
