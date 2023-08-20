@@ -1,26 +1,29 @@
-# Olá, eu sou Wendel Leão!
-*Sou autodidata, tenho 20 anos e estou estudando para a área Full Stack, me interesso por tecnologia e aprendizagem*
+  # Olá, eu sou Wendel Leão!
 
-*Atualmente estudando JavaScript, Typescript e Java*
+<div align=center>
+  
+*Sou autodidata, tenho 20 anos e estou estudando para a área ***Full Stack***, focando em backend* <br>
+*Atualmente estudando Java*
 
-*Gosto de ☕*
+☕
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/wendel-leao-devback/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/wendel_leaoo/)
+
+</div>
 
 ##
 
-<div>
-  <a href="https://github.com/WendelLR99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelLR99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelLR99&layout=compact&langs_count=7&theme=dark"/>
+<div align=center>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=WendelLR99&theme=great-gatsby&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelLR99&theme=great-gatsby&show_icons=true)
+  
 </div>
   
 ##
   
 <div align="center"><br>
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:90px; width:90px;"/>
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:90px; width:90px;"/>
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:90px; width:90px;"/>
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:90px; width:90px;"/>
-  <img  alt="Angular" style="height:90px; width:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img alt="TypeScript" style="height:90px; width:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:90px; width:90px"/>
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:90px; width:90px"/>
 </div>
