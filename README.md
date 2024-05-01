@@ -3,7 +3,7 @@
 <div align=center>
   
 *Sou autodidata, tenho 20 anos e estou estudando para a área ***Full Stack***, focando em backend* <br>
-*Atualmente estudando pela Ada*
+*Atualmente estudando pela Alura foco em Back-End Java*
 
 ☕
 
