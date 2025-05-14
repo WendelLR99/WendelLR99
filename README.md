@@ -2,12 +2,11 @@
 
 <div align=center>
   
-*Sou autodidata, tenho 21 anos e estou estudando para a área ***Full Stack***, focando em backend* <br>
-*Atualmente estudando pela Alura foco em Back-End Java*
+*Sou autodidata e estou com 22 anos, atualmente focado no aprendizado de Full Stack, com ênfase no desenvolvimento backend. Estou estudando JavaScript através de cursos da Udemy para expandir minhas habilidades e alcançar meus objetivos na área.*
 
 ☕
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/wendel-leao-devback/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/wendel_leaoo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/wendel-leao-devback/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/igriss.ak/)
 
 </div>
 
