@@ -2,7 +2,7 @@
 
 <div align=center>
   
-*Sou autodidata e estou com 22 anos, atualmente focado no aprendizado de Full Stack, com ênfase no desenvolvimento backend. Estou estudando JavaScript através de cursos da Udemy para expandir minhas habilidades e alcançar meus objetivos na área.*
+*Meu nome é Wendel, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Tenho paixão por tecnologia e estou focado em desenvolver projetos pessoais, construir um portfólio consistente e aprimorar minhas habilidades em desenvolvimento de software, com interesse especial em Java e desenvolvimento mobile..*
 
 ☕
 
