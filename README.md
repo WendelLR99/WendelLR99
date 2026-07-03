@@ -2,7 +2,7 @@
 
 <div align=center>
   
-*Meu nome é Wendel, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Tenho paixão por tecnologia e estou focado em desenvolver projetos pessoais, construir um portfólio consistente e aprimorar minhas habilidades em desenvolvimento de software, com interesse especial em Java e desenvolvimento mobile..*
+*Meu nome é Wendel, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Tenho paixão por tecnologia e estou focado em desenvolver projetos pessoais, construir um portfólio consistente e aprimorar minhas habilidades em desenvolvimento de software, com interesse especial em Java.*
 
 ☕
 
@@ -16,7 +16,6 @@
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=WendelLR99&theme=great-gatsby&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelLR99&theme=great-gatsby&show_icons=true)
   
 </div>
   
